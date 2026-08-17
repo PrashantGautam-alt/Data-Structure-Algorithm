@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
