@@ -17,9 +17,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
