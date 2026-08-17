@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
 | [1143-longest-common-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
