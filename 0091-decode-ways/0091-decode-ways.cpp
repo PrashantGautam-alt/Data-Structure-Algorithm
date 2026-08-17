@@ -2,23 +2,19 @@ class Solution {
 public:
 
     int rec(string &s, int level,vector<int> &dp){
-
         int n = s.size();
         // base case
         if(level == n){
             return 1;
         }
-
         if(s[level]=='0'){
             return 0;
         }
-
         //if already exist
 
         if(dp[level]!=-1){
             return dp[level];
         }
-
         // Choice 1:
         // take one character
 
