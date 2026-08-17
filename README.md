@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
