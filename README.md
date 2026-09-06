@@ -27,6 +27,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
