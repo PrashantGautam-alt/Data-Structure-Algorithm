@@ -18,6 +18,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0072-edit-distance](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
@@ -103,4 +106,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
