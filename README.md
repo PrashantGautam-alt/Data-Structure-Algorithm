@@ -110,4 +110,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
