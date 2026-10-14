@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
@@ -29,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [1463-cherry-pickup-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
