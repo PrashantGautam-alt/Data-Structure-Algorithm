@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
@@ -35,6 +36,7 @@
 | [0072-edit-distance](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrashantGautam-alt/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
